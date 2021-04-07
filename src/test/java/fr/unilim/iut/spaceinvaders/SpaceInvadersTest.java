@@ -1,4 +1,4 @@
-package fr.unilim.iut;
+package fr.unilim.iut.spaceinvaders;
 
 import static org.junit.Assert.assertEquals;
 
