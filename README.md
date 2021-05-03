@@ -37,7 +37,7 @@ Si les coordonnées d'un vaisseau sont en dehors de l'espace de jeu, alors on l�
 Pour l'instant aucune difficulté n'a été rencontré.
 
 ### Remarques diverses
- Pour pouvoir, mettre en place les tests, il a été nécessaire d’ajouter une fonctionnalité supplémentaire qui permet de représenter l’espace de jeu dans une chaîne ASCII.
+Pour que les tests puissent fonctionner, on a été obliger de rajouter une fonction qui vas representer notre espace de jeu sous la forme d'une table ASCII.
 
 -------------
 
