@@ -26,7 +26,7 @@ Si les coordonnées d'un vaisseau sont en dehors de l'espace de jeu, alors on l�
 
 ### Diagramme de classes 
 
-![Diagrammes de classes de la semaine 1](images/DiagrammeClasses_Semaine1.png)
+![Diagrammes de classes de la semaine 1](images/Diagramme_Séance1.png)
 
 ### Nuage de mots du projet spaceinvaders (séance n°1)  
  
