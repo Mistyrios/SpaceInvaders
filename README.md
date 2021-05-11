@@ -30,7 +30,7 @@ Si les coordonnées d'un vaisseau sont en dehors de l'espace de jeu, alors on l�
 
 ### Nuage de mots du projet spaceinvaders (séance n°1)  
  
-![Nuage de mots de la semaine 1](images/NuageMots_Semaine1.png)
+![Nuage de mots de la semaine 1](images/NuageDeMots_Semaine1.png)
 
 
 ### Difficultés rencontrées 
