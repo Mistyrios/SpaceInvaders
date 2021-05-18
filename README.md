@@ -35,14 +35,20 @@ Pour l'instant, on réduit la taille de notre vaisseau au maximum, c'est à dire
 
 - Story n°1 : Positionner un nouveau vaisseau avec une dimension donnée
 
-### Diagramme de classes 
+### Diagramme de classes :
 
+-Semaine 1:
 ![Diagrammes de classes de la semaine 1](images/Diagramme_Séance1.png)
+
+Semaine 2:
 ![Diagrammes de classes de la semaine 2](images/Diagramme_Séance2.png)
 
-### Nuage de mots du projet spaceinvaders (séance n°1)  
+### Nuage de mots du projet spaceinvaders :  
  
+ -Semaine 1 :
 ![Nuage de mots de la semaine 1](images/NuageDeMots_Semaine1.png)
+
+-Semaine 2 :
 ![Nuage de mots de la semaine 2](images/NuageDeMots_Semaine2.png)
 
 ### Difficultés rencontrées 
