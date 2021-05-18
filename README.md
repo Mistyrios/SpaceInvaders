@@ -37,7 +37,7 @@ Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau d
 
 ### Fonctionnalité en cours d’implémentation : 
 
-####Fonctionnalité n°2 : Dimensionner le vaiseau
+#### Fonctionnalité n°2 : Dimensionner le vaiseau
 
 - Story n°1 : Positionner un nouveau vaisseau avec une dimension donnée
 On veut pouvoir postionner un vaisseau au coordonnées voulu mais cette fois le vaisseau à des dimensions et n'est plus juste point dans l'espace de jeux
