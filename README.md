@@ -12,10 +12,12 @@ Ce projet consiste à réaliser une copie du jeu Space Invaders grâce au langag
 #### Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de jeu
 
 - Story n°1 : Créer un espace de jeu  
+
 On crée un espace de jeu aux dimensions voulu, celui-ci est vide.
 
 -  Story n°2 : Positionner un nouveau vaisseau dans l’espace de jeu 
-On crée un vaisseau qui est positionné au coordonnées donnée
+
+On crée un vaisseau qui est positionné au coordonnées donnée.
  Contraintes :
 La position que l'on souhaite donnée au vaisseau est modélisé par des coordonnées x et y
 La base de notre repère pour les coordonnées est le coin supérieur gauche(le point tout en haut à gauche), il a donc pour coordonnées (0,0)
@@ -26,12 +28,14 @@ Pour l'instant, on réduit la taille de notre vaisseau au maximum, c'est à dire
 #### Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de jeu (fini)
 
 - Story n°3 : Déplacer le vaisseau vers la droite dans l'espace de jeu
-Le vaisseau doit se déplacer d'une case vers la droite 
+
+Le vaisseau doit se déplacer d'une case vers la droite.
 Contraintes :
 Si le vaisseau se trouve sur la bordure droite de l'espace de jeu, le vaisseau doit rester immobile (aucun déplacement, aucune exception levée : le vaisseau reste juste à sa position actuelle).
 
 - Story n°4 : Déplacer le vaisseau vers la gauche dans l'espace de jeu
-Le vaisseau se déplace d'un pas vers la gauche 
+
+Le vaisseau se déplace d'un pas vers la gauche. 
 Contraintes :
 Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau doit rester immobile (aucun déplacement, aucune exception levée : le vaisseau reste juste à sa position actuelle).
 
