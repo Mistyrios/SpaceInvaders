@@ -40,5 +40,5 @@ public class Vaisseau {
     public void seDeplacerVersLaDroite() { this.origine.changerAbscisse(this.origine.abscisse() + 1); }
 
     public void seDeplacerVersLaGauche() { this.origine.changerAbscisse(this.origine.abscisse() - 1); }
-    
+
 }
